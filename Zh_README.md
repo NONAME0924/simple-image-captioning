@@ -1,5 +1,5 @@
 # 簡單實做image captioning
-[English](.README.md)
+[English](README.md)
 
 ## 安裝
 
