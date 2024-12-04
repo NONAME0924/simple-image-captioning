@@ -1,5 +1,8 @@
 # simple image captioning
 
+
+[繁體中文](Zh_README.md)。
+
 ## Installation
 
 1. Install the required dependencies:
