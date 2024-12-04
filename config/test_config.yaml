@@ -1,0 +1,5 @@
+model_name: finish_model_RAdam_1.pkl
+text_data_name: train.csv
+test_data_name: test.csv
+open_img: 98
+lang: zh_tw
