@@ -29,8 +29,8 @@
 
 ## Configuration
 
-- To modify training parameters, edit the `config.yaml` file located in the same directory as `src`.
-
+- To modify the training parameters, edit the `.yaml` files inside the `config` directory.
+  
 ## Testing
 
 1. For testing, use the following script:
