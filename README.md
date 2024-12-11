@@ -35,7 +35,7 @@
 
 1. For testing, use the following script:
     ```bash
-    python test-main.py
+    python test_main.py
     ```
 
 ## License
