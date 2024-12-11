@@ -3,4 +3,5 @@ csv_name: No
 self_data_name: No
 datasets_name: No
 lang: en
-total: 5
+total: 10000
+onlycreate: 20
