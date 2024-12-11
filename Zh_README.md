@@ -33,7 +33,7 @@
 
 1. 測試請使用以下腳本：
     ```bash
-    python test-main.py
+    python test_main.py
     ```
 
 ## 授權
